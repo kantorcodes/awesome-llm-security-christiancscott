@@ -109,6 +109,7 @@ This resource is most ideal for red teams and developers focused on building and
 
 ## 🛡️ LLM Defensive Tools & Resources
 
+- [HOL Guard](https://hol.org/guard) - Local runtime policy checks for supported AI coding-agent actions, with approval prompts and audit records; [source code](https://github.com/hashgraph-online/hol-guard) (Apache-2.0).
 - [LLM Guard - The Security Toolkit for LLM Interaction](https://github.com/protectai/llm-guard) - A security toolkit designed for protecting interactions with large language models by offering sanitization, detection of harmful language, prevention of data leakage, and resistance against prompt injection attacks
 - [Rebuff](https://github.com/protectai/rebuff) - Rebuff is designed to protect AI applications from prompt injection (PI) attacks through a multi-layered defense that involves heuristics, LLM-based detection and canary tokens.
 - [anonLLM](https://github.com/fsndzomga/anonLLM) - anonLLM is a Python package designed to anonymize personally identifiable information (PII) in text data before it's sent to Language Model APIs like GPT-3. The goal is to protect user privacy by ensuring that sensitive data such as names, email addresses, and phone numbers are anonymized.
